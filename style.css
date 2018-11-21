@@ -1,0 +1,24 @@
+body
+{
+	background: lightgray;
+}
+
+.red
+{
+	color: red;
+}
+
+.mainHeading
+{
+	background-color: gray;
+	font-family: sans-serif;
+	color: white;
+	outline-width: 50;
+	outline-color: : black;
+
+}
+
+.paragraphOne
+{
+	font-color: #9FFF33;
+}
